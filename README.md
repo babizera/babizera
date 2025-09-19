@@ -5,10 +5,10 @@
     <samp>
        about me:
       <br>
-       tech entushiast ➧ 19y ➧ she/her
+       tech entushiast ➧ 20y ➧ she/her
        <br>
        <br>
-             Hello! I'm Babi, aka babizera, and i'm 19 year old brazilian coder. I’m currently studying Information Systems and have a passion for Front-end development, but I’m aiming to build a career as a Full-Stack developer.<br>
+             Hello! I'm Babi, aka babizera, and i'm 20 year old brazilian coder. I’m currently studying Information Systems and have a passion for Front-end development, but I’m aiming to build a career as a Full-Stack developer.<br>
        <br>
       langs && frameworks:<br>
           > typescript, python, java, react, node.
